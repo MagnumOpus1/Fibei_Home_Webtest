@@ -1,0 +1,6 @@
+wget https://dl.google.com/linux/direct/google-schome-stable_current_amd64.deb
+
+Python=3.9.5
+python3.8-venv
+
+pip install selenium
