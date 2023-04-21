@@ -25,4 +25,5 @@ Optional:
 
 Note: You may need to adjust the system requirements based on the complexity of the web application you are testing.
 
-For a more detailed instruction in installing WSL2, Selenium and Chome-webdriver here's the link: https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
+The installation for the Selenium and Chrome-webdriver kindly run install-selenium.sh
+For a more detailed instruction or if any error occured in installing WSL2, Selenium and Chome-webdriver here's the link: https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
