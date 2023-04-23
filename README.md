@@ -47,7 +47,12 @@ even specifying location of chromedriver binary does not work
 * Python 3.8.10
 
 
-# check your current chrome
-CLICK HERE: https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+# Guides
+Check your current chrome: https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+
+current implementation status of the WebDriver: https://chromium.googlesource.com/chromium/src/+/master/docs/chromedriver_status.md
+
+Know more about chrome versions: https://chromedriver.chromium.org/home?fbclid=IwAR1X37geEab1nP-emU0U1EJjPb0awMa0wHSgDRa9puB2sOueIG6TM9SoXoM
+
 
 
