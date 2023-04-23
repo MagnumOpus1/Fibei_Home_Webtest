@@ -32,6 +32,8 @@ For a more detailed instruction or if any error occured in installing WSL2, Sele
 
 # Known Errors
 This combination will not work as intended and does not enable use of GUI, If GUI is enabled it will crash Chrome
+Without GUI it passes Login, but fails during Registration error ( "method": "css selector" value: "mat-input-02" ) but in actuality for that line css selector was not used 
+
 * google-chrome-stable-112.5615.49
 * chromedriver-112.0.5615.49
 * selenium-4.9.0
@@ -56,4 +58,11 @@ Know more about chrome versions: https://shorturl.at/luAQ4
 
 Demo Video on youtube watch here: https://youtu.be/zgb4YGvDkWY
 
+# TroubleShooting
+
+For troubleshooting always throws 'Element is not clickable' error click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_32
+
+ChromeDriver sometimes throws an 'Element is not clickable' error click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_71
+
+ChromeDriver can't click a moving element such as an automatically moving carousel in Fibei website click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_77
 
