@@ -28,3 +28,26 @@ Note: You may need to adjust the system requirements based on the complexity of 
 The installation for the Selenium and Chrome-webdriver kindly run install-selenium.sh
 
 For a more detailed instruction or if any error occured in installing WSL2, Selenium and Chome-webdriver here's the link: https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
+
+
+# Known Errors
+This combination will not work as intended and does not enable use of GUI, If GUI is enabled it will crash Chrome
+* google-chrome-stable-112.5615.49
+* chromedriver-112.0.5615.49
+* selenium-4.9.0
+
+installed on the following directories
+~/chromedriver/stable/chromedriver
+even specifying location of chromedriver binary does not work
+
+# stable
+* google-chrome-stable-110.0.5481.117
+* chromedriver-112.0.5615.49
+* selenium-4.8.2
+* Python 3.8.10
+
+
+# check your current chrome
+CLICK HERE: https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+
+
