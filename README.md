@@ -64,5 +64,5 @@ For troubleshooting always throws 'Element is not clickable' error click here: h
 
 ChromeDriver sometimes throws an 'Element is not clickable' error click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_71
 
-ChromeDriver can't click a moving element such as an automatically moving carousel in Fibei website click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_77
+ChromeDriver can't click a moving element such as an automatically moving carousel in Fibei website (not supported) click here: https://chromedriver.chromium.org/help/clicking-issues#h.p_ID_77
 
