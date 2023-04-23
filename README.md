@@ -40,7 +40,7 @@ installed on the following directories
 ~/chromedriver/stable/chromedriver
 even specifying location of chromedriver binary does not work
 
-# stable
+# STABLE
 * google-chrome-stable-110.0.5481.117
 * chromedriver-112.0.5615.49
 * selenium-4.8.2
