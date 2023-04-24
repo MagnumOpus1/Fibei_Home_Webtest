@@ -2,7 +2,7 @@
 This is my Project during my Internship
 It is a selenium-based website automation for: https://fibeigreetings.com/
 
-system requirements for running Selenium WebDriver and Chrome on WSL2:
+# system requirements for running Selenium WebDriver and Chrome on WSL2:
 
 Operating System:
 * Windows 10 version 1903 or later with WSL2 enabled
