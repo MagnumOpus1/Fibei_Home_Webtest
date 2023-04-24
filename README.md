@@ -2,7 +2,7 @@
 This is my Project during my Internship
 It is a selenium-based website automation for: https://fibeigreetings.com/
 
-# system requirements for running Selenium WebDriver and Chrome on WSL2:
+# System requirements for running Selenium WebDriver and Chrome on WSL2:
 
 Operating System:
 * Windows 10 version 1903 or later with WSL2 enabled
@@ -25,10 +25,12 @@ Optional:
 
 Note: You may need to adjust the system requirements based on the complexity of the web application you are testing.
 
+# Installation 
 The installation for the Selenium and Chrome-webdriver kindly run install-selenium.sh
 
 For a more detailed instruction or if any error occured in installing WSL2, Selenium and Chome-webdriver here's the link: https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
 
+clone this repository inside the directory where you created the python venv. Then edit the webtest.sh accordingly to the directory. 
 
 # Known Errors
 This combination will not work as intended and does not enable use of GUI, If GUI is enabled it will crash Chrome
